@@ -14,11 +14,10 @@ class Song
    @@genres << self
    
    end
-   def self.all 
-     @@genres
-   end 
+   
   def self.count
     @@count
 end 
+
 
 end 
