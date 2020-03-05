@@ -23,3 +23,4 @@ class Song
 end 
 end 
 
+Song.genres
